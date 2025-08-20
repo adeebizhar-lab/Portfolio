@@ -1,0 +1,28 @@
+body{
+    background-color: #081b29;
+    font-family: 'Jost', sans-serif;
+}
+
+
+.customhover{
+color: #ffffff;
+transition:  0.3s ease-in-out ;
+}
+
+.customhover :hover{
+color: #00bcd4;
+
+}
+
+.customfont{
+    font-family: 'Ubuntu' , sans-serif;
+}
+
+.customfont1{
+    font-family: 'Jost' , sans-serif;
+}
+
+.customfont2{
+    font-family: 'Ubuntu' , sans-serif;
+    font-weight: 700;
+}
